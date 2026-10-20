@@ -1,0 +1,8 @@
+csv_line,record_id,issue_type,detail
+3,A002,DUPLICATE_RECORD_ID,Record ID 'A002' appears more than once.
+3,A002,DUPLICATE_TEXT,Text matches another record; review for possible duplicate.
+5,A004,MISSING_TEXT,Text field is blank.
+6,A005,INVALID_LABEL,'Payments' is not an approved label.
+7,A006,DUPLICATE_TEXT,Text matches another record; review for possible duplicate.
+8,A002,DUPLICATE_RECORD_ID,Record ID 'A002' appears more than once.
+9,A008,MISSING_LABEL,Label field is blank.

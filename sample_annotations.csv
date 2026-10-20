@@ -1,0 +1,9 @@
+record_id,text,label
+A001,"I was charged twice this month",Billing
+A002,"The app closes when I open settings",Technical Support
+A003,"Please update my account email",Account
+A004,"",Billing
+A005,"My payment did not go through",Payments
+A006,"The app closes when I open settings",Technical Support
+A002,"I cannot log in",Account
+A008,"Can you help me reset my password?",
